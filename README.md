@@ -16,6 +16,7 @@ pip install tabulate
 # Demo :tada:
 
 ## :gift: Maurice Mano GUI Assembler :gift:
+https://github.com/YasinRezvani/Maurice_Mano_CLI_AND_GUI_Assembler/assets/77124662/91c2b872-2415-4ca8-9ff6-b0e15b0a6e56
 
 ## :bomb: Maurice Mano CLI Assembler :bomb:
 
